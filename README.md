@@ -1,4 +1,4 @@
-
+[![Athena Award Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Faward.athena.hackclub.com%2Fapi%2Fbadge)](https://award.athena.hackclub.com?utm_source=readme)
 # 🕹️ Godot Game for Daydream Novi
 
 This is a single-level 2D platformer game built with Godot, where players collect coins and travel in the unique robotic themed world.
